@@ -1,0 +1,58 @@
+{
+  "slug": "3d-longboard",
+  "title": "3D Longboard",
+  "pageTitle": "3D Longboard",
+  "year": "2020",
+  "credits": "",
+  "description": [
+    "Longboard Modeling: Blender Rendering: Cycles Illustration in sketchbook"
+  ],
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    {
+      "src": "IMG_3D_Longboard_003.webp",
+      "alt": "3D Longboard — IMG 3D Longboard 003 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_3D_Longboard_004.webp",
+      "alt": "3D Longboard — IMG 3D Longboard 004 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_3D_Longboard_005.webp",
+      "alt": "3D Longboard — IMG 3D Longboard 005 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_3D_Longboard_006.webp",
+      "alt": "3D Longboard — IMG 3D Longboard 006 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_3D_Longboard_007.webp",
+      "alt": "3D Longboard — IMG 3D Longboard 007 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_3D_Longboard_008.webp",
+      "alt": "3D Longboard — IMG 3D Longboard 008 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_3D_Longboard_009.webp",
+      "alt": "3D Longboard — IMG 3D Longboard 009 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_3D_Longboard_010.webp",
+      "alt": "3D Longboard — IMG 3D Longboard 010 - Design by Sebastian Medrano Casas"
+    }
+  ],
+  "tags": [
+    "blender",
+    "CG",
+    "CGI",
+    "design",
+    "ILLUSTRATION",
+    "LONGBOARD",
+    "product",
+    "Render",
+    "visualization",
+    "vray"
+  ],
+  "behanceUrl": "https://www.behance.net/gallery/99922083/3D-Longboard"
+}
