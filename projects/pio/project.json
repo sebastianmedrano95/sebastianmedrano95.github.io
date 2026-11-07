@@ -1,0 +1,45 @@
+{
+  "slug": "pio",
+  "title": "PIO",
+  "pageTitle": "PIO",
+  "year": "2020",
+  "credits": "",
+  "description": [
+    "Parlante inalámbrico con base de carga en madera"
+  ],
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    {
+      "src": "IMG_PIO_003.webp",
+      "alt": "PIO — IMG PIO 003 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_PIO_004.webp",
+      "alt": "PIO — IMG PIO 004 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_PIO_005.webp",
+      "alt": "PIO — IMG PIO 005 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_PIO_006.webp",
+      "alt": "PIO — IMG PIO 006 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_PIO_007.webp",
+      "alt": "PIO — IMG PIO 007 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_PIO_008.webp",
+      "alt": "PIO — IMG PIO 008 - Design by Sebastian Medrano Casas"
+    }
+  ],
+  "tags": [
+    "speaker",
+    "product",
+    "innovation",
+    "3dmodel",
+    "productdesigner"
+  ],
+  "behanceUrl": "https://www.behance.net/gallery/92128921/PIO"
+}

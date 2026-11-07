@@ -1,0 +1,40 @@
+{
+  "slug": "cgi-photography-studio",
+  "title": "CGI - Photography studio",
+  "pageTitle": "CGI - Photography studio",
+  "year": "2020",
+  "credits": "Software: Blneder Render: Cycles",
+  "description": [
+    "CGI - Photography studio",
+    "Software: Blneder Render: Cycles"
+  ],
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    {
+      "src": "IMG_CGI_-_Photography_studio_004.webp",
+      "alt": "CGI - Photography studio — IMG CGI Photography studio 004 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_CGI_-_Photography_studio_005.webp",
+      "alt": "CGI - Photography studio — IMG CGI Photography studio 005 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_CGI_-_Photography_studio_006.webp",
+      "alt": "CGI - Photography studio — IMG CGI Photography studio 006 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_CGI_-_Photography_studio_007.webp",
+      "alt": "CGI - Photography studio — IMG CGI Photography studio 007 - Design by Sebastian Medrano Casas"
+    }
+  ],
+  "tags": [
+    "3ds max",
+    "blender",
+    "CGI",
+    "cinema4d",
+    "Interior",
+    "rendering",
+    "vray"
+  ],
+  "behanceUrl": "https://www.behance.net/gallery/104285737/CGI-Photography-studio"
+}

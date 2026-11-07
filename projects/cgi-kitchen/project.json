@@ -1,0 +1,49 @@
+{
+  "slug": "cgi-kitchen",
+  "title": "CGI - kitchen",
+  "pageTitle": "CGI - kitchen",
+  "year": "2020",
+  "credits": "Software: Blneder Render: Cycles",
+  "description": [
+    "CGI - kitchen",
+    "Software: Blneder Render: Cycles"
+  ],
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    {
+      "src": "IMG_CGI_-_kitchen_004.webp",
+      "alt": "CGI - kitchen — IMG CGI kitchen 004 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_CGI_-_kitchen_005.webp",
+      "alt": "CGI - kitchen — IMG CGI kitchen 005 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_CGI_-_kitchen_006.webp",
+      "alt": "CGI - kitchen — IMG CGI kitchen 006 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_CGI_-_kitchen_007.webp",
+      "alt": "CGI - kitchen — IMG CGI kitchen 007 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_CGI_-_kitchen_008.webp",
+      "alt": "CGI - kitchen — IMG CGI kitchen 008 - Design by Sebastian Medrano Casas"
+    },
+    {
+      "src": "IMG_CGI_-_kitchen_009.webp",
+      "alt": "CGI - kitchen — IMG CGI kitchen 009 - Design by Sebastian Medrano Casas"
+    }
+  ],
+  "tags": [
+    "3D model",
+    "3ds max",
+    "blender",
+    "CGI",
+    "Interior",
+    "kitchen",
+    "rendering",
+    "vray"
+  ],
+  "behanceUrl": "https://www.behance.net/gallery/105934311/CGI-kitchen"
+}
