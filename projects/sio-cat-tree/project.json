@@ -54,31 +54,38 @@
     },
     {
       "src": "IMG_SIO_-_CAT_TREE_010.webp",
-      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 010 - Design by Sebastian Medrano Casas"
+      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 010 - Design by Sebastian Medrano Casas",
+      "galleryLayout": "grid"
     },
     {
       "src": "IMG_SIO_-_CAT_TREE_011.webp",
-      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 011 - Design by Sebastian Medrano Casas"
+      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 011 - Design by Sebastian Medrano Casas",
+      "galleryLayout": "grid"
     },
     {
       "src": "IMG_SIO_-_CAT_TREE_012.webp",
-      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 012 - Design by Sebastian Medrano Casas"
+      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 012 - Design by Sebastian Medrano Casas",
+      "galleryLayout": "grid"
     },
     {
       "src": "IMG_SIO_-_CAT_TREE_013.webp",
-      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 013 - Design by Sebastian Medrano Casas"
+      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 013 - Design by Sebastian Medrano Casas",
+      "galleryLayout": "grid"
     },
     {
       "src": "IMG_SIO_-_CAT_TREE_014.webp",
-      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 014 - Design by Sebastian Medrano Casas"
+      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 014 - Design by Sebastian Medrano Casas",
+      "galleryLayout": "grid"
     },
     {
       "src": "IMG_SIO_-_CAT_TREE_015.webp",
-      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 015 - Design by Sebastian Medrano Casas"
+      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 015 - Design by Sebastian Medrano Casas",
+      "galleryLayout": "grid"
     },
     {
       "src": "IMG_SIO_-_CAT_TREE_016.webp",
-      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 016 - Design by Sebastian Medrano Casas"
+      "alt": "SIO - CAT TREE — IMG SIO CAT TREE 016 - Design by Sebastian Medrano Casas",
+      "galleryLayout": "grid"
     },
     {
       "src": "IMG_SIO_-_CAT_TREE_018.webp",
@@ -200,6 +207,18 @@
     "pet furniture",
     "pets",
     "product design"
+  ],
+  "pressLinks": [
+    {
+      "publisher": "Homecrux",
+      "title": "Sio Cat Tree by Sebastian Medrano",
+      "url": "https://www.homecrux.com/sio-cat-tree-sebastian-medrano/159095/"
+    },
+    {
+      "publisher": "Yanko Design",
+      "title": "This wooden cat tower will keep your cat entertained for hours and blends right into modern living rooms",
+      "url": "https://www.yankodesign.com/2021/09/03/this-wooden-cat-tower-will-keep-your-cat-entertained-for-hours-and-blends-right-into-modern-living-rooms/"
+    }
   ],
   "behanceUrl": "https://www.behance.net/gallery/125553635/SIO-CAT-TREE"
 }

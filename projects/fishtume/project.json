@@ -61,5 +61,12 @@
       "src": "Render_11.webp"
     }
   ],
-  "theRookiesUrl": "https://www.therookies.co/entries/35278"
+  "theRookiesUrl": "https://www.therookies.co/entries/35278",
+  "pressLinks": [
+    {
+      "publisher": "Adobe",
+      "title": "Redefining creativity with Substance 3D tools, stunning designs, and artistic triumphs",
+      "url": "https://blog.adobe.com/en/publish/2024/11/27/redefining-creativity-with-substance-3d-tools-stunning-designs-artistic-triumphs"
+    }
+  ]
 }
