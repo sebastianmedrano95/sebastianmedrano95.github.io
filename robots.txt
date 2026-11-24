@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sebastianmedrano.com/sitemap.xml
+Sitemap: https://www.sebastianmedrano.com/sitemap.xml
