@@ -267,5 +267,9 @@
     "bedroom",
     "mattresses"
   ],
-  "behanceUrl": "https://www.behance.net/gallery/187763787/Sleeping-Puppy-Mattress-design"
+  "behanceUrl": "https://www.behance.net/gallery/187763787/Sleeping-Puppy-Mattress-design",
+  "heroImage": {
+    "src": "IMG_Sleeping_Puppy_-_Mattress_design_016.webp",
+    "alt": "Sleeping Puppy - Mattress design — IMG Sleeping Puppy Mattress design 016 - Design by Sebastian Medrano Casas"
+  }
 }

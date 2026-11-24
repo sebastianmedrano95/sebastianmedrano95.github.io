@@ -90,5 +90,9 @@
       "url": "https://www.trendhunter.com/trends/adudu-desk"
     }
   ],
-  "behanceUrl": "https://www.behance.net/gallery/154514207/ADUDU"
+  "behanceUrl": "https://www.behance.net/gallery/154514207/ADUDU",
+  "heroImage": {
+    "src": "IMG_ADUDU_008.webp",
+    "alt": "ADUDU — IMG ADUDU 008 - Design by Sebastian Medrano Casas"
+  }
 }

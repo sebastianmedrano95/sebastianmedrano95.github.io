@@ -74,5 +74,9 @@
     "table",
     "vray"
   ],
-  "behanceUrl": "https://www.behance.net/gallery/140451001/FINTA-DESK"
+  "behanceUrl": "https://www.behance.net/gallery/140451001/FINTA-DESK",
+  "heroImage": {
+    "src": "IMG_FINTA_-_DESK_009.webp",
+    "alt": "FINTA - DESK — IMG FINTA DESK 009 - Design by Sebastian Medrano Casas"
+  }
 }

@@ -79,5 +79,9 @@
     "product",
     "toy"
   ],
-  "behanceUrl": "https://www.behance.net/gallery/138507195/DINTA-TOY-ORGANIZER"
+  "behanceUrl": "https://www.behance.net/gallery/138507195/DINTA-TOY-ORGANIZER",
+  "heroImage": {
+    "src": "IMG_DINTA_-_TOY_ORGANIZER_008.webp",
+    "alt": "DINTA - TOY ORGANIZER — IMG DINTA TOY ORGANIZER 008 - Design by Sebastian Medrano Casas"
+  }
 }

@@ -64,5 +64,9 @@
     "decoration",
     "home decor"
   ],
-  "behanceUrl": "https://www.behance.net/gallery/143741943/PULPO-CANDLE"
+  "behanceUrl": "https://www.behance.net/gallery/143741943/PULPO-CANDLE",
+  "heroImage": {
+    "src": "IMG_PULPO_-_CANDLE_008.webp",
+    "alt": "PULPO - CANDLE — IMG PULPO CANDLE 008 - Design by Sebastian Medrano Casas"
+  }
 }
